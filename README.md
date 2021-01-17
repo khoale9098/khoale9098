@@ -1,4 +1,4 @@
-### Hi, I'm [Khoa Le!] (https://github.com/khoale9098) 👋
+### Hi, I'm Khoa Le 👋 <code><img height="20" src="https://gph.is/g/EqRDozR"></code>
  𝓓𝓻𝓮𝓪𝓶𝓮𝓻 𝓵𝓸𝓼𝓽 𝓲𝓷 𝓽𝓱𝓮 𝓜𝓲𝓭𝓭𝓵𝓮-𝓔𝓪𝓻𝓽𝓱 
 
 
