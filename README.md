@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Khoa Le a software engineer 👋
 
 <!--
 **khoale9098/khoale9098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
