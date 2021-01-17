@@ -1,4 +1,4 @@
-### Hi, I'm Khoa Le 👋 <code><img height="20" src="https://media.giphy.com/media/YocXhNZN0yeoc10CdD/giphy.gif"></code>
+### Hi, I'm Khoa Le 👋 <code><img style="width:20px" src="https://media.giphy.com/media/YocXhNZN0yeoc10CdD/giphy.gif"></code>
  𝓓𝓻𝓮𝓪𝓶𝓮𝓻 𝓵𝓸𝓼𝓽 𝓲𝓷 𝓽𝓱𝓮 𝓜𝓲𝓭𝓭𝓵𝓮-𝓔𝓪𝓻𝓽𝓱 
 
 
