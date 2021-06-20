@@ -2,7 +2,6 @@
  𝓓𝓻𝓮𝓪𝓶𝓮𝓻 𝓵𝓸𝓼𝓽 𝓲𝓷 𝓽𝓱𝓮 𝓜𝓲𝓭𝓭𝓵𝓮-𝓔𝓪𝓻𝓽𝓱 
 
 
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/khoale9098)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/khoale9098/)
 
 **Languages and Tools:**  
