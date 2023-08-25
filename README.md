@@ -1,4 +1,4 @@
-### Hi, I'm Khoa Le 👋 <img style="display: block; max-height: 60px; max-width: 100%;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2lmdG1mdHp5czVuZWkzcTdtNG1lbm1oNWY2d3NzNm01MmtsZWg3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Yo3E2M1uRTPnWAExVS/giphy.gif">
+### Hi, I'm Khoa Le 👋 <img style="display: block; max-height: 60px; max-width: 100%;" src="https://media3.giphy.com/media/3o72FkreWNH9OlTtPq/giphy.gif?cid=ecf05e4711ymoq3ksrd9fhoa6ci5h57bzr0h02baup3e9hpb&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/khoale9098/)
